@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('/assets/my_custom_fonts/fonts/SourceHanSansCN-Normal.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('/assets/my_custom_fonts/fonts/SourceHanSansCN-Light.otf') format('opentype');
+    font-weight: light;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('/assets/my_custom_fonts/fonts/SourceHanSansCN-Medium.otf') format('opentype');
+    font-weight: medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('/assets/my_custom_fonts/fonts/SourceHanSansCN-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+body, h1, h2, h3, h4, h5, h6, .btn, input, textarea, select {
+    font-family: 'MyCustomFont', sans-serif !important;
+}
