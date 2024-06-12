@@ -1,8 +1,8 @@
 app_name = "my_custom_fonts"
-app_title = "my_custom_fonts"
+app_title = "mycustomfonts"
 app_publisher = "veg0s"
-app_description = "Add some local [D[3~i fonts"
-app_email = "veg0s@veg0s.com"
+app_description = "nothing"
+app_email = "veg0s@t.com"
 app_license = "mit"
 # required_apps = []
 

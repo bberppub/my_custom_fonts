@@ -1,9 +1,9 @@
 [project]
 name = "my_custom_fonts"
 authors = [
-    { name = "veg0s", email = "veg0s@veg0s.com"}
+    { name = "veg0s", email = "veg0s@t.com"}
 ]
-description = "Add some local [D[3~i fonts"
+description = "nothing"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
